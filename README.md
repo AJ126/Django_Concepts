@@ -1,5 +1,4 @@
 # Django_Concepts
-# Django Mastery
 
 A collection of Django concepts from beginner to advanced, with practical code examples.
 
